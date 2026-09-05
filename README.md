@@ -3,7 +3,7 @@
 A responsive multi-section website built with pure HTML & CSS.
 
 ## 🚀 Live Demo
-[View Live Demo](رابط الـ GitHub Pages هنا)
+[View Live Demo](https://hamzaerashidy-dev.github.io/HTML-CSS-Design-02/)
 
 ## 🛠️ Technologies Used
 - HTML5
